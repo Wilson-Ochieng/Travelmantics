@@ -1,2 +1,2 @@
 # Travemantics
-#An android application that provides information for client on travel deals
+#An android application that provides information for clients on travel deals
